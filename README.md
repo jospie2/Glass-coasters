@@ -1,5 +1,5 @@
 # Glass-coasters
-This is a Glass coasters which can light up your glass with ws2812b Led´s it has a pcb for the led´s  
+This is a Glass coaster which can light up your glass with ws2812b Led´s it has a pcb for the led´s  
 I made a pcb for the LEDS you can order it with the gerber files I have uploadet.
 then you will need ws2812b LEDS you can order them really cheap you will need 11 LEDs per lamp for example this https://www.amazon.de/LED-Pixel-Diode-WS2812B-integriertem-Driver-St%C3%BCck-RGB/dp/B00DUBLU6E/ .
 You also will need an wemos d1 mini https://www.amazon.de/dp/B01N9RXGHY/ref=twister_B07ZQP9FSX?_encoding=UTF8&psc=1
