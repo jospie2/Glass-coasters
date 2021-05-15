@@ -15,4 +15,5 @@ the arduino ide installd and the wemos d1 mini extencnion url loadet.
 You can see 2 diverent arduino files one is for normal efekts and the other is for intigrating the projetc in a api.
 but you can also use it with other control software for example WLED for ws2812b leds 
 So lets have fun!
-In the immages you can see a little cable this is only there because the was an error on the pcb but I fixed it in the new version you worn't need this cable
+In the immages you can see a little cable this is only there because the was an error on the pcb but I fixed it in the new version you worn't need this cable!
+The 3d file I will upload on thingiverse soon!
